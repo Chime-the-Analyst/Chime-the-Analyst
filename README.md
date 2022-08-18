@@ -1,10 +1,20 @@
 
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1647667/screenshots/7306011/media/3988cfee8b797430e5f64898bf44bdbc.jpg?compress=1&resize=768x576&vertical=top" width="750"/>
+</div>
 
-<h3 align="center">Hi there, I'm Chimereze Iwuoha 👋</h3>
+
+
+
+
 
 ----
 
-<h3 align="center">A passionate Data Analyst </h3>
+
+
+
+<h3 align="center">Hi there, I'm Chimereze Iwuoha 👋</h3>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -34,7 +44,7 @@
 -->
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chime-the-analyst&show_icons=true&locale=en" alt="chime-the-analyst" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chime-the-analyst&show_icons=true&locale=en" alt="chime-the-analyst" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chime-the-analyst&" alt="chime-the-analyst" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chime-the-analyst&" alt="chime-the-analyst" /></p>
 
