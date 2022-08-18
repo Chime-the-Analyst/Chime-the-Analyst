@@ -23,3 +23,9 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I'm a Marvel Fan😁
 -->
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chime-the-analyst&show_icons=true&locale=en" alt="chime-the-analyst" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chime-the-analyst&" alt="chime-the-analyst" /></p>
+
