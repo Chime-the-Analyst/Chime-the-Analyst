@@ -1,6 +1,15 @@
+
+
+<h3 align="center">Hi there, I'm Chimereze Iwuoha 👋</h3>
+
+----
+
+<h3 align="center">A passionate Data Analyst </h3>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chime-the-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="chime-the-analyst" /> </p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chimereze-iwuoha">
